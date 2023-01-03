@@ -194,15 +194,16 @@ body {
         width: 30px;
         height: 42px;
         padding-left: 10px;
+        margin-right: 0;
     }
 
     #item {
         font-weight: 100;
-        margin-right: 20px;
+        margin-right: 10px;
     }
 
     #top-bennar-idea {
-        margin-left: 10px;
+        margin-left: 0px;
         font-weight: 400;
     }
 
