@@ -180,6 +180,32 @@ body {
 
 @media only screen and (max-width:688px) {
 
+    .top-bennar-item img {
+        width: 44px;
+        height: 44px;
+        padding-right: 10px;
+    }
+
+    .top-bennar-item {
+        font-size: 10px;
+    }
+
+    #logo {
+        width: 30px;
+        height: 42px;
+        padding-left: 10px;
+    }
+
+    #item {
+        font-weight: 100;
+        margin-right: 20px;
+    }
+
+    #top-bennar-idea {
+        margin-left: 10px;
+        font-weight: 400;
+    }
+
     .top-player-blog {
         width: 100%;
         margin: 0;
